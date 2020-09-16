@@ -1,8 +1,5 @@
-﻿//Author:           Amy Wang
 //File Name:        Melee.cs
-//Project Name:     A2_OOP
 //Creation Date:    October 18, 2018
-//Modified Date:    October 22, 2018
 /*Description:      Create melee weapons which are swords*/
 
 using System;
