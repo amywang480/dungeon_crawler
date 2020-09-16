@@ -1,9 +1,6 @@
-﻿//Author:           Amy Wang
 //File Name:        Ranged.cs
-//Project Name:     A2_OOP
 //Creation Date:    October 18, 2018
-//Modified Date:    October 22, 2018
-/*Description:      */
+//Description:      Create ranged weapons
 
 using System;
 using System.Collections.Generic;
