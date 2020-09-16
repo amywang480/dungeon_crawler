@@ -1,8 +1,5 @@
-﻿//Author:           Amy Wang
 //File Name:        Shop.cs
-//Project Name:     A2_OOP
 //Creation Date:    October 11, 2018
-//Modified Date:    October 22, 2018
 /*Description:      Store shops where the player can buy items and sell items*/
 
 using System;
