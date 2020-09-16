@@ -1,12 +1,3 @@
-﻿//Author:           Amy Wang
-//File Name:        DungeonCrawler.cs
-//Project Name:     A2_OOP
-//Creation Date:    October 8, 2018
-//Modified Date:    October 22, 2018
-/*Description:      Run the game, Dungeon Crawler, where the user moves their way through a dungeon as they
-                    try to reach the exit. During the game, the user may encounter traps and the user is 
-                    able to buy, sell, and use powerups.*/
-
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
