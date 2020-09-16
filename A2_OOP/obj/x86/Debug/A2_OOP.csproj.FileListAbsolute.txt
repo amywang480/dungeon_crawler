@@ -1,0 +1,106 @@
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\A2_OOP.exe
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\A2_OOP.pdb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.dll
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.xml
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\obj\x86\Debug\A2_OOP.csprojAssemblyReference.cache
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\obj\x86\Debug\A2_OOP.csproj.CoreCompileInputs.cache
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\obj\x86\Debug\A2_OOP.csproj.CopyComplete
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\obj\x86\Debug\A2_OOP.exe
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\obj\x86\Debug\A2_OOP.pdb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Player.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\EndPosition.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_0000.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_0001.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_0010.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_0011.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_0100.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_0101.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_0110.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_0111.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_1000.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_1001.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_1010.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_1011.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_1100.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_1101.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_1110.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_1111.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_Hidden.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\SHOP.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\TrapActive.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\TrapPassive.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_Reveal.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\GameFont.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\ShopFont.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\WhiteSquare.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\BtnFont.xnb
+F:\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\InventoryFont.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\BtnFont.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\EndPosition.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\InventoryFont.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Player.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_0000.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_0001.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_0010.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_0011.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_0100.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_0101.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_0110.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_0111.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_1000.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_1001.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_1010.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_1011.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_1100.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_1101.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_1110.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_1111.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_Hidden.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\Room_Reveal.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\SHOP.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\ShopFont.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\TrapActive.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\TrapPassive.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\Content\WhiteSquare.xnb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\A2_OOP.exe
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\A2_OOP.pdb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\obj\x86\Debug\A2_OOP.csprojAssemblyReference.cache
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\obj\x86\Debug\A2_OOP.csproj.CoreCompileInputs.cache
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\obj\x86\Debug\A2_OOP.csproj.CopyComplete
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\obj\x86\Debug\A2_OOP.exe
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\A2\A2_OOP\A2_OOP\obj\x86\Debug\A2_OOP.pdb
