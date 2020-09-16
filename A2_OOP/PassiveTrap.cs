@@ -1,8 +1,5 @@
-﻿//Author:           Amy Wang
 //File Name:        PassiveTrap.cs
-//Project Name:     A2_OOP
 //Creation Date:    October 11, 2018
-//Modified Date:    October 22, 2018
 /*Description:      Create passive traps that allow the player to first leave the trap
                     within a certain amount of time before damaging the player*/
 
