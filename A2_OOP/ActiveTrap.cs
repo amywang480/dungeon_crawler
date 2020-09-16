@@ -1,8 +1,5 @@
-﻿//Author:           Amy Wang
 //File Name:        ActiveTrap.cs
-//Project Name:     A2_OOP
 //Creation Date:    October 11, 2018
-//Modified Date:    October 22, 2018
 /*Description:      Store active traps that damage player immediately and continue to 
                     damage player until they leave the room*/
 
