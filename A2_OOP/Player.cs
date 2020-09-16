@@ -1,8 +1,5 @@
-﻿//Author:           Amy Wang
 //File Name:        Player.cs
-//Project Name:     A2_OOP
 //Creation Date:    October 11, 2018
-//Modified Date:    October 22, 2018
 /*Description:      Control actions of the player of the game who moves around the maze
                     while buying, selling, and using items*/
 
